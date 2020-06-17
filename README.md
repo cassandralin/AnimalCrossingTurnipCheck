@@ -1,4 +1,5 @@
-# Animal Crossing TurnipCheck
+# Animal Crossing Turnip Check
+!["Daisy Mae"](docs/turnip.jpg)
 For any and all Animal Crossing fans-selling turnips can be very profitable. <br/>
 This code scrapes the data from turnip.exchange to find the islands selling turnips at a price you select, a queue of less than 5 people and with no fees. <br/>
 It will automatically open up tabs of the filtered islands to get you in that queue quicker. <br/>
